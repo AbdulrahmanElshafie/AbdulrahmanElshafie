@@ -38,10 +38,10 @@
 - **Top Technologies & Languages**:
     
 	![Python](https://img.shields.io/badge/Python%20-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-	![Dart](https://img.shields.io/badge/Dart%20-logo?logo=dart&style=for-the-badge&logoColor=0175C2)
-	![Flutter](https://img.shields.io/badge/Flutter%20-logo?logo=flutter&style=for-the-badge&logoColor=02569B)
-	![VSCode](https://img.shields.io/badge/VSCode%20-logo?logo=visualstudiocode&style=for-the-badge&logoColor=007ACC)
-	![PyCharm](https://img.shields.io/badge/PyCharm%20-logo?logo=PyCharm&style=for-the-badge&logoColor=000000)
+	![Dart](https://img.shields.io/badge/Dart%20-%230175C2?logo=dart&style=for-the-badge&logoColor=white)
+	![Flutter](https://img.shields.io/badge/Flutter%20-%2302569B?logo=flutter&style=for-the-badge&logoColor=white)
+	![VSCode](https://img.shields.io/badge/VSCode%20-%23007ACC?logo=visualstudiocode&style=for-the-badge&logoColor=white)
+	![PyCharm](https://img.shields.io/badge/PyCharm%20-%23000000?logo=PyCharm&style=for-the-badge&logoColor=white)
 
 <br>   
     

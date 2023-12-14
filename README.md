@@ -37,7 +37,7 @@
 
 - **Top Technologies & Languages**:
     
-	![Python](https://img.shields.io/badge/Python%20-%3776AB?style=for-the-badge&logo=python&logoColor=white)
+	![Python](https://img.shields.io/badge/Python%20-%3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 	![Dart](https://img.shields.io/badge/Dart%20-logo?logo=dart&style=for-the-badge&logoColor=0175C2)
 	![Flutter](https://img.shields.io/badge/Flutter%20-logo?logo=flutter&style=for-the-badge&logoColor=02569B)
 	![VSCode](https://img.shields.io/badge/visualstudiocode%20-logo?logo=VSCode&style=for-the-badge&logoColor=007ACC)

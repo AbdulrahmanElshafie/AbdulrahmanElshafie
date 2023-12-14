@@ -30,7 +30,7 @@ I’m currently open for an internship or a new job opportunity
 <p align="center">
 
 - **Top Technologies & Languages**:
-    
+<br>
 	![Python](https://img.shields.io/badge/Python%20-%233776AB?style=for-the-badge&logo=python&logoColor=white)
 	![Anaconda](https://img.shields.io/badge/Anaconda%20-%2344A833?style=for-the-badge&logo=anaconda&logoColor=white)
 	![Selenium](https://img.shields.io/badge/Selenium%20-%2343B02A?style=for-the-badge&logo=Selenium&logoColor=white)
@@ -50,7 +50,7 @@ I’m currently open for an internship or a new job opportunity
   <br>   
     
 - **Other Technologies & Languages**:
-
+<br>
 	![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
@@ -64,6 +64,7 @@ I’m currently open for an internship or a new job opportunity
 <br>
 
 - **Project Management Tools**:
+<br>
   ![ClickUp](https://img.shields.io/badge/clickup-%237B68EE?style=for-the-badge&logo=clickup&logoColor=white)
   ![Trello](https://img.shields.io/badge/Trello-%230052CC?style=for-the-badge&logo=trello&logoColor=white)
   ![Airtable](https://img.shields.io/badge/Airtable-%2318BFFF?style=for-the-badge&logo=airtable&logoColor=white)
@@ -79,6 +80,7 @@ I’m currently open for an internship or a new job opportunity
 <br>
 
 - **Extras**:
+<br>
     ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
     ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
 

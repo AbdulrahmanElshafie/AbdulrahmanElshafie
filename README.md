@@ -15,11 +15,9 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <br>
-- A passionate Self-taught developer <br>
+- A passionate Python Development <br>
 - Currently learning Flutter Development by Self <br>
-- Currently learning Python Development by Self <br>
-- Personal website [link](https://www.0xabdulkhalid.ml) <br>
-- I’m currently open for an internship or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid) <br>
+- I’m currently open for an internship or a new job opportunity <br>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>

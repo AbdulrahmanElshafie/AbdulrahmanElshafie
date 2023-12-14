@@ -38,7 +38,7 @@
 - **Top Technologies & Languages**:
     
 	![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-	![Dart](https://img.shields.io/badge/logo-Dart?logo=dart)
+	![Dart](https://img.shields.io/badge/Dart%20-logo?logo=dart)
 
 <br>   
     

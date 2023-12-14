@@ -15,9 +15,9 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <br>
-- A passionate Python Development
-- Currently learning Flutter Development by Self
-- I’m currently open for an internship or a new job opportunity
+- A passionate Python Development <br>
+- Currently learning Flutter Development by Self <br>
+- I’m currently open for an internship or a new job opportunity <br>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>

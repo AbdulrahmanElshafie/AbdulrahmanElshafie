@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 <h1 align="center"><b>Hi , I'm Abdulrahman Saeed Elshafie </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
 <!--  -->A
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah😊,;Senior+Computer+Science+Student👨‍🎓,;Passionate+Python+Developer🐍,;Self-Learning+Flutter+Developer📖,;Project+Management+,+Productivity+Nerd📚;"></a>
@@ -51,7 +50,7 @@ I’m currently open for an internship or a new job opportunity
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
   
  <br>   
-  
+
 - **Other Technologies & Languages**:
 
 
@@ -113,10 +112,21 @@ I’m currently open for an internship or a new job opportunity
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 
+Abdulrahman Saeed Elshafie
+
 <a href="mailto:sabdo6177@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:Abdulrahman Saeed Elshafie-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.linkedin.com/in/abdulrahman-saeed-elshafie/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin: A Software Engineer Seeking Software Innovative Challenges-%2300acee.svg?color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+</a>
+
+<a href="https://www.linkedin.com/in/abdulrahman-elshafie/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin: A SEO & Google Ads Specialist at Techmart-%2300acee.svg?color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
+

@@ -7,7 +7,7 @@
 </p>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-My name's Abdulrahman Saeed Elshafie, I'm a passionate software engineer with experience with *Python* and *Flutter*. 
+My name's Abdulrahman Saeed Elshafie, I'm a passionate software engineer seeking innovative opportunities & challenges as *python* developer and a senior @ FCAI-CU
 
 I've used Python for a couple of projects in implementing Web Automations using Selenium and AI projects using *Tensorflow* and *Sklearn*. Have some experience with different famous packages such as *Numpy*, *Pandas*, *PySimpleGUI*, and some specialized packages for specific purposes and APIs such as *pyairtable*, *dropbox*, *googlesearch*.
 

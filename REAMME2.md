@@ -2,13 +2,32 @@
 
 ###
 
-<p align="left">Highly motivated Software Engineer with a passion for applying Python to complex challenges. Seeking an internship or entry-level position to leverage my technical skills and transition into a Python backend developer role. <br><br>Technical Skills:<br><br>Python: Proficient in web automation (Selenium), AI projects (TensorFlow, Scikit-learn), and data analysis (NumPy, Pandas).<br>Machine Learning & Data Science: Experience with Exploratory Data Analysis (EDA), handling unbalanced data, and building models for fraud detection.<br>Web Development (Learning): Actively learning Flask and FastAPI for backend development.<br>Additional Packages: PySimpleGUI, PyAirtable, Dropbox, Google Search API.<br>Project Highlights:<br><br>Job Description Automation (Python, Selenium, PySimpleGUI): Streamlined job description creation by collecting user input and utilizing ChatGPT for generation, bypassing CAPTCHAs and saving results to CSV.<br>Company Ranking Automation (Python, Google Search API): Developed a tool to retrieve company ranking based on user-provided keywords.<br>Fraud Detection for Utilities (STEG Dataset): Performed EDA, data processing, and model testing to identify electricity and gas theft patterns (unbalanced data, Scikit-learn, TensorFlow).<br><br>Possess around 1.5 years of experience in Digital Marketing roles including campaign planning, implementation, content creation, and SEO/WordPress development.</p>
+<p align="left">Highly motivated Software Engineer with a passion for applying Python to complex challenges. Seeking an internship or entry-level position to leverage my technical skills and transition into a Python backend developer role. <br>
 
-###
+<br>**<h3>Technical Skills</h3>**
+**Python**: Proficient in web automation (Selenium), AI projects (TensorFlow, Scikit-learn), and data analysis (NumPy, Pandas).
+<br>**Machine Learning & Data Science**: Experience with Exploratory Data Analysis (EDA), handling unbalanced data, and building models for fraud detection.
+<br>**Web Development (Learning)**: Actively learning Flask and FastAPI for backend development.
+<br>**Additional Packages**: PySimpleGUI, PyAirtable, Dropbox, Google Search API.<br>
 
-<p align="left">Seeking: Internship or entry-level Python backend developer position to contribute to a dynamic team and further my technical expertise.</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-###
+<br>**<h3>Project Highlights</h3>**
+
+**Job Description Automation (Python, Selenium, PySimpleGUI)**: Streamlined job description creation by collecting user input and utilizing ChatGPT for generation, bypassing CAPTCHAs and saving results to CSV.
+<br>**Company Ranking Automation (Python, Google Search API)**: Developed a tool to retrieve company ranking based on user-provided keywords.
+<br>**Fraud Detection for Utilities (STEG Dataset)**: Performed EDA, data processing, and model testing to identify electricity and gas theft patterns (unbalanced data, Scikit-learn, TensorFlow).<br>
+
+<br>Possess around 1.5 years of experience in Digital Marketing roles including campaign planning, implementation, content creation, and SEO/WordPress development.</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> 
+
+**Seeking**: Internship or entry-level Python backend developer position to contribute to a dynamic team and further my technical expertise.
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
 
 <div align="left">
   <a href="mailto:sabdo6177@gmail.com" target="_blank">
@@ -29,6 +48,7 @@
 ###
 
 <br clear="both">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3 align="left">Main Skill Set</h3>
 

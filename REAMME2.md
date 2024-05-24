@@ -7,18 +7,18 @@
 <br>**<h3>Technical Skills</h3>**
 **Python**: Proficient in web automation (Selenium), AI projects (TensorFlow, Scikit-learn), and data analysis (NumPy, Pandas).
 <br>**Machine Learning & Data Science**: Experience with Exploratory Data Analysis (EDA), handling unbalanced data, and building models for fraud detection.
-<br>**Web Development (Learning)**: Actively learning Flask and FastAPI for backend development.
+<br>**Web Development (Learning)**: Actively learning Flask for backend development.
 <br>**Additional Packages**: PySimpleGUI, PyAirtable, Dropbox, Google Search API.<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>**<h3>Project Highlights</h3>**
 
-**Job Description Automation (Python, Selenium, PySimpleGUI)**: Streamlined job description creation by collecting user input and utilizing ChatGPT for generation, bypassing CAPTCHAs and saving results to CSV.
-<br>**Company Ranking Automation (Python, Google Search API)**: Developed a tool to retrieve company ranking based on user-provided keywords.
-<br>**Fraud Detection for Utilities (STEG Dataset)**: Performed EDA, data processing, and model testing to identify electricity and gas theft patterns (unbalanced data, Scikit-learn, TensorFlow).<br>
+**Job Description Automation**: Automated job description creation using Python, Selenium, and PySimpleGUI, reducing manual input time by 50%.
+<br>**Company Ranking Automation**: Developed tool to rank companies, creating comprehensive reports..
+<br>**Fraud Detection for Utilities (STEG Dataset - Unbalanced Data)**: Performed EDA, data processing, and machine learning models to identify electricity and gas theft patterns. Reached 0.85 accuracy, recall, and precision.<br>
 
-<br>Possess around 1.5 years of experience in Digital Marketing roles including campaign planning, implementation, content creation, and SEO/WordPress development.</p>
+<br>Possess around 1.5 years of experience in Digital Marketing roles including campaign planning, implementation, content creation, SEO, and WordPress development.</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -125,11 +125,3 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" height="40" alt="woocommerce logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/AbdulrahmanElshafie/AbdulrahmanElshafie/output/snake.svg" alt="Snake animation" />
-
-###

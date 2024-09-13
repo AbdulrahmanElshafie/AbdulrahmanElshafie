@@ -112,5 +112,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width=40>
 
 
+<h3 align="left">GitHub Contributions</h3>
 
-![snake gif](https://github.com/AbdulrahmanElshafie/AbdulrahmanElshafie/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://raw.githubusercontent.com/AbdulrahmanElshafie/AbdulrahmanElshafie/output/github-contribution-grid-snake.svg)

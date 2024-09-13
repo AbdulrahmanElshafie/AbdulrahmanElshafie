@@ -114,4 +114,4 @@
 
 <h3 align="left">GitHub Contributions</h3>
 
-![snake gif](https://raw.githubusercontent.com/AbdulrahmanElshafie/AbdulrahmanElshafie/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/AbdulrahmanElshafie/AbdulrahmanElshafie/output/github-contribution-grid-snake-dark.svg)

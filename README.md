@@ -46,8 +46,11 @@
 
 
 <a href="https://codeium.com/profile/abdulrahman-saeed-elshafie"><img src="https://codeium.com/badges/user/abdulrahman-saeed-elshafie/autocomplete" alt="Abdulrahman Saeed Elshafie on Codeium"></a>
+<br>
 <img src="https://streak-stats.demolab.com?user=AbdulrahmanElshafie&theme=transparent&fire=EB5454" alt="GitHub Streak" height="130"/>
+<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulrahmanElshafie&layout=compact&theme=transparent" alt="Top Languages" height="130"/>
+<br>
 <img src="https://github-readme-stats.vercel.app/api?username=AbdulrahmanElshafie&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=transparent" height="130" alt="stats graph"  />
 
 </div>

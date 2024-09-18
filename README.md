@@ -4,21 +4,20 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 **<h3>Technical Skills</h3>**
-**Python**: Proficient in web automation (Selenium), AI projects (TensorFlow, Scikit-learn), and data analysis (NumPy, Pandas).
-**Machine Learning & Data Science**: Experienced in Exploratory Data Analysis (EDA), handling unbalanced data, and building AI models.
-**Web Development**: Actively expanding skills in Django for backend development.
-**Cross-Platform Development**: Developing skills in Flutter for mobile and web applications.
-**Additional Packages**: PySimpleGUI, PyAirtable, Dropbox, Google Search API.
+- **Python**: Proficient in web automation (Selenium), AI projects (TensorFlow, Scikit-learn), and data analysis (NumPy, Pandas).
+- **Machine Learning & Data Science**: Experienced in Exploratory Data Analysis (EDA), handling unbalanced data, and building AI models.
+- **Web Development**: Actively expanding skills in Django for backend development.
+- **Cross-Platform Development**: Developing skills in Flutter for mobile and web applications.
+- **Additional Packages**: PySimpleGUI, PyAirtable, Dropbox, Google Search API.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 **<h3>Project Highlights</h3>**
 
-**AI-Powered System Mimicking Human Eyes**: Developed an advanced system utilizing AI to replicate human vision, pushing the boundaries of what's possible in machine learning and artificial intelligence.
-**NoteR**: An AI-powered note-taking app designed to revolutionize how users interact with their notes. NoteR includes features like NoteChateR, NoteRecommendeR, and NoteSearcheR, which leverage AI to enhance note-taking, organization, and retrieval.
-**Data Science**: Analyzed unbalanced data to identify patterns of electricity and gas theft, utilizing Scikit-learn to improve machine learning model performance and handle imbalanced datasets effectively.
-**Web Automation (Selenium)**: Developed a tool that streamlined job description creation, reducing the time required by 50%.
-**Marketing Intelligence (Google Search API)**: Built an automated tool to retrieve company rankings based on user-provided keywords, enhancing SEO and marketing strategies.
+- **AI-Powered System Mimicking Human Eyes**: Developed an advanced system utilizing AI to replicate human vision, pushing the boundaries of what's possible in machine learning and artificial intelligence.
+- **NoteR**: An AI-powered note-taking app designed to revolutionize how users interact with their notes. NoteR includes features like NoteChateR, NoteRecommendeR, and NoteSearcheR, which leverage AI to enhance note-taking, organization, and retrieval.
+- **Data Science**: Analyzed unbalanced data to identify patterns of electricity and gas theft, utilizing Scikit-learn to improve machine learning model performance and handle imbalanced datasets effectively.
+- **Web Automation (Selenium)**: Developed a tool that streamlined job description creation, reducing the time required by 50%.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 

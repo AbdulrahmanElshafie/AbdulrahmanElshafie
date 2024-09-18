@@ -26,16 +26,16 @@
 
 <div align="center">
   <a href="mailto:sabdo6177@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Abdulrahman Saeed Elshafie Gmail - sabdo6177@gmail.com"  />
   </a>
   <a href="https://wa.me/201018625142" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Abdulrahman Saeed Elshafie WhatsApp - +201018625142"  />
   </a>
   <a href="https://discordapp.com/users/abdosaeed0434" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=DISCORD&logo=Discord&label=&color=0067e0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=DISCORD&logo=Discord&label=&color=0067e0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Abdulrahman Saeed Elshafie Discord - abdosaeed0434"  />
   </a>
   <a href="https://www.linkedin.com/in/abdulrahman-elshafie/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LINKEDIN&logo=LinkedIn&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=LINKEDIN&logo=LinkedIn&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Abdulrahman Saeed Elshafie LinkedIn - abdulrahman-elshafie"  />
   </a>
 
 </div>
@@ -44,12 +44,11 @@
 **<h3>Stats</h3>**
 <div align="center">
 
-[![autocomplete](https://codeium.com/badges/user/abdulrahman-saeed-elshafie/autocomplete)](https://codeium.com/profile/abdulrahman-saeed-elshafie)
 
-
-<img src="https://streak-stats.demolab.com?user=AbdulrahmanElshafie&theme=transparent&fire=EB5454" alt="GitHub Streak"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulrahmanElshafie&layout=compact&theme=transparent" alt="Top Languages"/>
-
+<a href="https://codeium.com/profile/abdulrahman-saeed-elshafie"><img src="https://codeium.com/badges/user/abdulrahman-saeed-elshafie/autocomplete" alt="Abdulrahman Saeed Elshafie on Codeium"></a>
+<img src="https://streak-stats.demolab.com?user=AbdulrahmanElshafie&theme=transparent&fire=EB5454" alt="GitHub Streak" height="130"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulrahmanElshafie&layout=compact&theme=transparent" alt="Top Languages" height="130"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AbdulrahmanElshafie&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=transparent" height="130" alt="stats graph"  />
 
 </div>
 
@@ -116,4 +115,4 @@
 
 <h3 align="left">GitHub Contributions</h3>
 
-![snake gif](https://raw.githubusercontent.com/AbdulrahmanElshafie/AbdulrahmanElshafie/output/github-contribution-grid-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/AbdulrahmanElshafie/AbdulrahmanElshafie/output/github-contribution-grid-snake-dark.svg" alt="Abdulrahman Saeed Elshafie GitHub Contributions Snake">

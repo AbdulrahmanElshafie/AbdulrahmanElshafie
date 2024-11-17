@@ -40,21 +40,25 @@
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" height="200" alt="Random Dev Quote">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 **<h3>Stats</h3>**
 <div align="center">
 
-
-<a href="https://codeium.com/profile/abdulrahman-saeed-elshafie"><img src="https://codeium.com/badges/user/abdulrahman-saeed-elshafie/autocomplete" alt="Abdulrahman Saeed Elshafie on Codeium"></a>
-<br>
-<img src="https://streak-stats.demolab.com?user=AbdulrahmanElshafie&theme=transparent&fire=EB5454" alt="GitHub Streak" height="150"/>
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulrahmanElshafie&layout=compact&theme=transparent" alt="Top Languages" height="150"/>
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=AbdulrahmanElshafie&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=transparent" height="150" alt="stats graph"  />
+  <img src="https://github-contributor-stats.vercel.app/api?username=AbdulrahmanElshafie&limit=5&theme=transparent&combine_all_yearly_contributions=true&order_by=contributions" height="200" alt="Abdulrahman Saeed Elshafie's GitHub Contributor Stats">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulrahmanElshafie&layout=compact&theme=transparent" alt="Abdulrahman Saeed Elshafie's Top Languages" height="150"/>
+  <br>
+  <img src="https://streak-stats.demolab.com?user=AbdulrahmanElshafie&theme=transparent&fire=EB5454" alt="Abdulrahman Saeed Elshafie's GitHub Streak" height="150"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdulrahmanElshafie&show_icons=true&include_all_commits=true&count_private=true&theme=transparent" height="150" alt="Abdulrahman Saeed Elshafie's stats graph"  />
+  <br>
+  <a href="https://codeium.com/profile/abdulrahman-saeed-elshafie"><img src="https://codeium.com/badges/user/abdulrahman-saeed-elshafie/autocomplete" alt="Abdulrahman Saeed Elshafie on Codeium"></a>
+  <br>
 
 </div>
-
-###
 
 <br clear="both">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

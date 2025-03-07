@@ -1,3 +1,8 @@
+<img src="assets/Black and Gray Minimalist LinkedIn Banner (4).png" alt="Abdulrahman Saeed Elshafie Banner"  />
+
+<br/>
+<br/>
+
 # 🚀 About Me  
 
 My name is Abdulrahman Elshafie, I began my career in **digital marketing**, where I learned to analyze customer insights and translate them into **data-driven strategies**. This experience ignited my passion for **creating user-centric solutions**, ultimately leading me to transition into **software engineering**. Now, I leverage **AI, Data, and Marketing** to develop intelligent solutions that enhance user experiences and drive business success.  

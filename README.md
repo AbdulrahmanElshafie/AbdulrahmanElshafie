@@ -29,6 +29,17 @@ I focus on bridging that gap by building systems that:
 
 ---
 
+## 💼 Who I Work With
+
+I help:
+- Startups building AI-powered products
+- Agencies looking to integrate automation & AI into client workflows
+- Businesses that want to turn manual processes into scalable systems
+
+If you're building something where **user experience, automation, and growth** matter—I can help.
+
+---
+
 ## 🔑 What I Build
 
 🧠 **AI Systems & ML Pipelines**  
@@ -71,7 +82,7 @@ This combination allows me to design products that are:
 
 ## 📩 Let’s Build Something Intelligent
 
-If the goal is to build software that truly understands users and scales with intelligence—let’s connect.
+If you're building a product and want it to be smarter, faster, and more aligned with your users—let’s talk.
 
 ---
 
